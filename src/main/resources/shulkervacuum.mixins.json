@@ -3,7 +3,7 @@
 	"package": "com.shulkervacuum.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"HandledScreenMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
